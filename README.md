@@ -26,6 +26,7 @@ _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**
 
 ## 📷 ScreenShots 
 ------------------
+<img width="1079" alt="image" src="https://github.com/mohibmakrani001/Sorting-Visualizer/assets/89698856/d7a70e22-2dbe-4386-b184-3e2305b798a5">
 
 
 ## 📽 GIF Demo
