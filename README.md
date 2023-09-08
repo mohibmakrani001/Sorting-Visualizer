@@ -27,8 +27,12 @@ _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**
 ## 📷 ScreenShots 
 ------------------
 <img width="1079" alt="image" src="https://github.com/mohibmakrani001/Sorting-Visualizer/assets/89698856/d7a70e22-2dbe-4386-b184-3e2305b798a5">
+<img width="1080" alt="image" src="https://github.com/mohibmakrani001/Sorting-Visualizer/assets/89698856/b48274cc-f6b8-4f3c-ac8b-4196d51124b6">
+![image](https://github.com/mohibmakrani001/Sorting-Visualizer/assets/89698856/84a65a10-2171-41ca-a2a1-983faaa4e473)
+
 
 
 ## 📽 GIF Demo
 --------------
+
 
