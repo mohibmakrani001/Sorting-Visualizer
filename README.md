@@ -15,7 +15,7 @@
 3. Insertion Sort.
 4. Merge Sort.
 5. Quick Sort.
-6. Heap Sort.
+
 
 _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**_Array Size Control_**)
 ## ⚙ How it works ?!
